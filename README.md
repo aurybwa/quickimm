@@ -6,7 +6,7 @@ While an interested individual can research for these resources on their own, it
 Our service would take into consideration the user's need and stages of transition. The user would be provided with a backoffice and personalized information relevant to the stage they are in now. Whether it is a prospective student or if it's someone who has been here a year or two, Quickimm will be able to pull relevant information for the student to facilitate their transition.
 # Preview
 Here's the app in action:
-![Preview](https://github.com/uwarwaga/quickimm/tree/master/public/img/quickimm.gif)
+![Preview](https://github.com/uwarwaga/quickimm/raw/master/public/img/quickimm.gif)
 
 # Installation
 
